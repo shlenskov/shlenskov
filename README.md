@@ -1,9 +1,8 @@
-- 👋 Hi, 🌎 I’m @shlenskov - beginner Python-developer 🤓
-- 👀 I’m interested in Python 🐍
-- 🌱 I’m currently learning in Yandex.Practicum 🖥
-- 📫 How to reach me : shlenskov@gmail.com
+- Hi, 🌎  I’m @shlenskov - beginner Python-developer 🤓
+- I’m interested in Python 🐍 👀
+- I’m currently learning in Yandex.Practicum 🖥
+- How to reach me : shlenskov@gmail.com 📫
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 <!---
